@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e2dfd9;
+    margin: 0;
+    padding: 40px;
+}
+
+/* Título */
+h2 {
+    text-align: center;
+    color: white;
+    background-color: #17365D;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 15px;
+    margin: 0 auto 30px auto;
+    width: 400px;
+    border-radius: 8px;
+}
+
+/* Formulario */
+form {
+    background-color: white;
+    width: 400px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+
+/* Campos */
+select,
+input[type="number"],
+textarea {
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 5px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* btnEnviar */
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #90C98B;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #72B36D;
+}
