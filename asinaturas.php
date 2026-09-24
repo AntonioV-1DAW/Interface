@@ -33,10 +33,10 @@
                 <!--Profesor-->
                 <label for="profesor">Profesor</label><br>
                 <select id="profesor" name="profesor" required>
-                    <option value="">-- Selecciona un profesor --</option>
-                    <option value="profesor1">Isabel Munoz</option>
-                    <option value="profesor2">Alberto Dominguez</option>
-                    <option value="profesor3">Paco Garcia</option>
+                    <option value="">Selecciona un profesor</option>
+                    <option value="Isabel Munoz">Isabel Munoz</option>
+                    <option value="Alberto Dominguez">Alberto Dominguez</option>
+                    <option value="Francisco Jose Garcia">Francisco Jose Garcia</option>
                 </select>
             </section>
             <section>
